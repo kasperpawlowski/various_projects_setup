@@ -3,7 +3,7 @@
 The following installation steps were executed Ubuntu run via Windows Subsystem for Linux (WSL). Therefore, there's no guarantee that the steps executed on different operating system will succeed.
 
 Prerequisites:
-1. Installed cardano-node, cardano-cli and cardano-wallet
+1. Installed cardano-node and cardano-cli
 2. Cardano-node up, running and synced
 
 Steps:

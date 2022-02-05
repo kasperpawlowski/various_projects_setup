@@ -39,3 +39,6 @@ npx hardhat run scripts/deploy.js --network ropsten
 npx hardhat verify "PASTE THE ADDRESS HERE, REMOVE THE QUOTES" --network ropsten
 ```
 9. go to https://ropsten.etherscan.io to play with the contract
+
+
+Refer to https://github.com/decentraland/land for more information.

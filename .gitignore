@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Custom
+/decentraland/land
+/decentraland/hardhat/artifacts
+/decentraland/hardhat/cache
+/decentraland/hardhat/contracts
+package-lock.json
